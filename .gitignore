@@ -1,0 +1,23 @@
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Secrets - NE JAMAIS committer
+*.key
+*_password*
+credentials*
+
+# Éditeurs / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Logs locaux
+*.log
+zeek/
+tools/
+
+# Données Elasticsearch/Docker locales (si montées en volume dans le repo)
+elk-stack/data/
