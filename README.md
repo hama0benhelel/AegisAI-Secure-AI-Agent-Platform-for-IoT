@@ -47,7 +47,7 @@ Monitoring Agent          Detection Agent
      IoT Simulator (EMQX) — trafic normal + attaques simulées
 ```
  
-Pipeline conceptuel calqué sur le cycle OÉRIX : **Détecter → Comprendre → Recommander → Planifier/Exécuter**.
+Pipeline conceptuel calqué sur ce cycle  : **Détecter → Comprendre → Recommander → Planifier/Exécuter**.
  
 ---
  
