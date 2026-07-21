@@ -61,4 +61,4 @@
 | 6 | **Limiter la dérive lente de la baseline statistique** (Detection Agent) | Une attaque progressive et lente peut, avec le temps, se faire passer pour "normale". | Moyen |
 | 7 | **Journalisation centralisée signée/inaltérable** des décisions d'approbation | Actuellement les logs sont dans Elasticsearch mais rien n'empêche une modification a posteriori par un compte à privilèges élevés. | Élevé |
 
-**Priorité recommandée si le temps est limité avant la soutenance : #2 (rapide, corrige une incohérence réelle) puis documenter #1, #3, #5, #7 comme axes d'amélioration identifiés — cela démontre une bonne compréhension des limites du système, ce qui est valorisé autant que l'implémentation elle-même.**
+
